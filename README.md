@@ -14,22 +14,8 @@ Este projeto é um aplicativo para realizar o sorteio de amigo secreto de forma 
 
 ## Como Usar
 1. Acesse o aplicativo via site do GitHub:
-    ```bash
     git clone https://github.com/ricardorivi/sorteio-amigo-secreto.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd sorteio-amigo-secreto
-    ```
-3. Instale as dependências:
-    ```bash
-    [Comando para instalar dependências]
-    ```
-4. Execute o aplicativo:
-    ```bash
-    [Comando para executar o aplicativo]
-    ```
-
+    
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
